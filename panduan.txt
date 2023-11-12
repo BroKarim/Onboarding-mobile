@@ -1,0 +1,24 @@
+WEB TO SEARCH IDEA
+- Gnerate IDEA
+- Get creativity
+- Grow Your Business
+
+
+Link tutorial lengkap : 
+https://docs.expo.dev/tutorial/create-your-first-app/
+
+- jalankan 
+npx expo start
+
+To see the web app in action, press `w` in the terminal. It will open the web app in the default web browser.
+
+
+
+Onboarding Reference : 
+https://youtu.be/4-GKgqIUBNo?si=WlkYCssUHupF1kmA
+
+🏠HomeScreen
+
+- Komponen `SafeAreaView` digunakan dalam pengembangan aplikasi React Native untuk mengatur tata letak konten sehingga aman dari "safe area" perangkat. 
+
+"Safe area" adalah area di sekitar layar perangkat yang biasanya digunakan untuk menyematkan informasi seperti status bar, bilah navigasi, atau sudut melengkung perangkat. Penggunaan SafeAreaView membantu memastikan bahwa konten aplikasi Anda TIDAK TERPOTONG atau terlindung oleh elemen-elemen tersebut.
