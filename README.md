@@ -19,6 +19,9 @@ Clone the repo and run `npm install`
 
 After the successfull installation of the packages: `npx expo start`
 
+## Credit
+
+Basically all code in this repo is taken from Syednom shah [repo](https://github.com/syednomishah/Onboarding-UI-React-Native)
 
 
 Made with ❤️ by Bro Karim
