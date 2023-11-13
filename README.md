@@ -2,8 +2,7 @@
 
  A simple beautiful onboarding with react native/expo
 
-<img width="959" alt="image" src="https://github.com/BroKarim/Fit-buddy/assets/146515339/9cba155b-3f5d-42fa-87fb-975245a2a2c0">
-
+<img width="800" alt="image" src="https://github.com/BroKarim/Onboarding-mobile/assets/146515339/759e80f8-ec04-4324-8205-d45d65987bc2">
 
 Sources you can learn from : 
 - [Expo official app](https://docs.expo.dev/)
